@@ -1,4 +1,5 @@
-### Full-stack software and web developer
+# Full-stack software and web developer, game developer, and audio engineer.
+
 
 <!--
 **JDOdea/JDOdea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
