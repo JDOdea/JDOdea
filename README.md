@@ -11,9 +11,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jdodea&show_icons=true&theme=dark&locale=en" alt="jdodea" /></p>
 
-<p align="left">
-  <a href="linkedin.com/in/jdfitzmartin">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jdodea&label=Profile%20views&color=0e75b6&style=flat" alt="jdodea" /> </p>
