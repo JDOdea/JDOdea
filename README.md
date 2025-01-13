@@ -3,7 +3,6 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5ra3cyY3hndThnYXh0ejhtdjF4d3NwaWlnbW04N2sxM254bTRqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4bckBayvO7BMrz5kna/giphy.gif" width="100"/>
 </div>
 <h3 align="center">Full-Stack software developer and engineer, game developer, and audio engineer.</h3>
-
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
