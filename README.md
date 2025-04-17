@@ -4,7 +4,6 @@
 </div>
 <h3 align="center">Full-Stack software developer and engineer, game developer, and audio engineer.</h3>
 
-
 ---
 
 
