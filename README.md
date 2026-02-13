@@ -32,14 +32,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="Vercel" **alt="Vercel" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" title="Digital Ocean" **alt="Digital Ocean" width="40" height="40"/>
 </div>
-
-
----
-
-### :fire: My Stats :
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jdodea&show_icons=true&theme=dark&locale=en&layout=compact" alt="jdodea" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jdodea&show_icons=true&theme=dark&locale=en" alt="jdodea" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jdodea&label=Profile%20views&color=0e75b6&style=flat" alt="jdodea" /> </p>
